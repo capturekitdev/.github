@@ -30,9 +30,9 @@ curl -G https://api.capturekit.dev/v1/capture \
 - [**AI Website Analyzer API**](https://github.com/capturekitdev/ai-website-analyzer-api) — AI summary, value proposition & features of any website
 - [**Full Page Screenshot API**](https://github.com/capturekitdev/full-page-screenshot-api) — Capture entire web pages, top to bottom, as one image
 - [**Mobile Screenshot API**](https://github.com/capturekitdev/mobile-screenshot-api) — Screenshot websites as seen on iPhone, Pixel, Galaxy or iPad
-- [**Screenshot API**](https://github.com/capturekitdev/screenshot-api) — Capture any website as PNG, JPEG or WebP with one API call
 - [**Website Content API**](https://github.com/capturekitdev/website-content-api) — Extract metadata, links, HTML & Markdown from any page
 - [**Website Crawler API**](https://github.com/capturekitdev/website-crawler-api) — Fetch raw HTML of any page, fast
+- [**Screenshot API**](https://github.com/capturekitdev/website-screenshot-api) — Capture any website as PNG, JPEG or WebP with one API call
 - [**Website to PDF API**](https://github.com/capturekitdev/website-to-pdf-api) — Convert any URL into a PDF document with one API call
 
 ---
